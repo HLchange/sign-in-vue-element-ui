@@ -1,2 +1,2 @@
-# sign-in-vue-element-ui
-这是一个使用vue+element-ui制作的一个登录网页项目
+# 项目介绍\<br>
+*采用vue-cli构建初始项目目录
