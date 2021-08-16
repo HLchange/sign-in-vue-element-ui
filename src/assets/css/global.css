@@ -1,0 +1,13 @@
+@charset "UTF-8";
+/* 全局修改element-ui组件样式 */
+/* 全局input高度 */
+.el-input__inner{
+    height: 42px;
+    border: none;
+    border-bottom: 1px solid;
+    border-radius: 0;
+}
+.el-button.is-round {
+    background-color: transparent;
+    color: black;
+}
