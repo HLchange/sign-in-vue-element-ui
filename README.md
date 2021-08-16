@@ -7,3 +7,5 @@
 ### 操作指令
 * npm install 安装依赖
 * npm run serve 启动服务端并开启浏览器
+### 预览
+![123](https://github.com/HLchange/sign-in-vue-element-ui/blob/main/review/%E5%BE%85%E7%99%BB%E5%BD%95%E9%A1%B5%E9%9D%A2.png)
