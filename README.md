@@ -1,7 +1,7 @@
 ### 项目介绍
 * 采用`vue-cli`构建初始项目目录
 * 使用`vue2`、`element-ui`、`canvas`构建项目开发环境
-* 前端采用`vue`、`element-ui`和`canvas`验证码功能搭建页面
+* 前端采用`vue`、`element-ui`表单验证和`canvas`验证码功能搭建页面
 * 通过判断指定条件登录页面(`rounter`路由导航)
 * 页面为登录页、欢迎页
 ### 操作指令
